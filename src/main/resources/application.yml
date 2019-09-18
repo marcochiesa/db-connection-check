@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/vitalpacs?autoReconnect=true&useSSL=true&requireSSL=true
+    url: jdbc:mysql://localhost:3306/mydb?useSSL=true&requireSSL=true
     username: root
     password: root
